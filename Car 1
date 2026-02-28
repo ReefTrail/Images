@@ -1,9 +1,9 @@
 {
   "name": "Skibiditheme",
-  "description": "Based on Purpdark V3, by @ReefTrail",
+  "description": "Based on Purpdark V3, by @kilkproduct",
   "authors": [
     {
-      "name": "@ReefTrail"
+      "name": "@kilkproduct"
     }
   ],
   "semanticColors": {
@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/ReefTrail/Images/refs/heads/main/2e96651aa1d65a128847b36e06b27c01.jpg",
+    "url": "https://raw.githubusercontent.com/ReefTrail/Images/refs/heads/main/fantastic-green-aurora-borealis-northern-lights-with-stars-glowing-snowy-mountain-night-sky-winter-lofoten-islands-norway_49071-3752.jpg?token=GHSAT0AAAAAADWSZN6K4VEV3ZN4Y5Z7HDZW2NCX7IA",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
