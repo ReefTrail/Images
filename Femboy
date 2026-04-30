@@ -75,7 +75,7 @@
 
   "background": {
     "url": "https://raw.githubusercontent.com/ReefTrail/Images/refs/heads/main/HD-wallpaper-israel-flag.jpg?token=GHSAT0AAAAAAD2YMAPVTN2WA3QTGTUS623Y2PTQIEQ",
-    "blur": 12,
+    "blur": 0,
     "brightness": 0.5
   },
 
