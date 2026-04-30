@@ -1,6 +1,6 @@
 {
-  "name": "Israel Pride",
-  "description": "A crisp blue and white theme using official national colors.",
+  "name": "Israel Pride Refined",
+  "description": "High-contrast blue and white theme with improved readability.",
   "authors": [{"name": "Israel"}],
 
   "semanticColors": {
@@ -10,8 +10,8 @@
     "BACKGROUND_TERTIARY": ["#D2DEFF"],
 
     "BACKGROUND_ACCENT": ["#0038B8"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#0038B815"],
-    "BACKGROUND_MENTIONED": ["#0038B815"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0038B81A"],
+    "BACKGROUND_MENTIONED": ["#0038B81A"],
 
     "BG_BASE_PRIMARY": ["#FFFFFF"],
     "BG_BASE_SECONDARY": ["#F0F4FF"],
@@ -28,9 +28,9 @@
     "EMBED_BACKGROUND": ["#F8FAFF"],
     "EMBED_BACKGROUND_ALTERNATE": ["#EEF2FF"],
 
-    "INTERACTIVE_ACTIVE": ["#002D96"],
-    "INTERACTIVE_NORMAL": ["#0038B8"],
-    "INTERACTIVE_MUTED": ["#7A95D1"],
+    "INTERACTIVE_ACTIVE": ["#0038B8"],
+    "INTERACTIVE_NORMAL": ["#475569"],
+    "INTERACTIVE_MUTED": ["#94A3B8"],
 
     "PANEL_BG": ["#F0F4FF"],
 
@@ -55,28 +55,18 @@
 
   "rawColors": {
     "BLUE_345": "#0038B8",
-    "GREEN_430": "#0038B8",
-
-    "RED_430": "#D32F2F",
-    "RED_460": "#B71C1C",
-
-    "GREEN_460": "#7A95D1",
-
-    "BRAND_260": "#E1E9FF",
-    "BRAND_360": "#7A95D1",
-    "BRAND_500": "#0038B8",
-    "BRAND_560": "#002D96",
-
     "PRIMARY_500": "#64748B",
     "PRIMARY_600": "#E1E9FF",
     "PRIMARY_700": "#F0F4FF",
-    "PRIMARY_800": "#FFFFFF"
+    "PRIMARY_800": "#FFFFFF",
+    "BRAND_500": "#0038B8",
+    "BRAND_560": "#002D96"
   },
 
   "background": {
     "url": "https://raw.githubusercontent.com/ReefTrail/Images/refs/heads/main/HD-wallpaper-israel-flag.jpg?token=GHSAT0AAAAAAD2YMAPVTN2WA3QTGTUS623Y2PTQIEQ",
     "blur": 0,
-    "brightness": 0.6
+    "brightness": 0.7
   },
 
   "spec": 2,
