@@ -1,88 +1,88 @@
 {
-  "name": "Israel Theme",
-  "description": "Blue and white theme inspired by the Israeli flag",
+  "name": "Israel Pride",
+  "description": "A crisp blue and white theme using official national colors.",
   "authors": [{"name": "Israel"}],
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#FFFFFF"],
-    "BACKGROUND_SECONDARY": ["#F2F6FF"],
-    "BACKGROUND_SECONDARY_ALT": ["#E6EEFF"],
-    "BACKGROUND_TERTIARY": ["#DCE7FF"],
+    "BACKGROUND_SECONDARY": ["#F0F4FF"],
+    "BACKGROUND_SECONDARY_ALT": ["#E1E9FF"],
+    "BACKGROUND_TERTIARY": ["#D2DEFF"],
 
-    "BACKGROUND_ACCENT": ["#2E5BFF"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#00000008"],
-    "BACKGROUND_MENTIONED": ["#2E5BFF20"],
+    "BACKGROUND_ACCENT": ["#0038B8"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0038B815"],
+    "BACKGROUND_MENTIONED": ["#0038B815"],
 
     "BG_BASE_PRIMARY": ["#FFFFFF"],
-    "BG_BASE_SECONDARY": ["#F2F6FF"],
-    "BG_BASE_TERTIARY": ["#E6EEFF"],
+    "BG_BASE_SECONDARY": ["#F0F4FF"],
+    "BG_BASE_TERTIARY": ["#E1E9FF"],
 
-    "BG_BRAND": ["#2E5BFF90"],
-    "BG_SURFACE_RAISED": ["#F2F6FF"],
+    "BG_BRAND": ["#0038B8"],
+    "BG_SURFACE_RAISED": ["#FFFFFF"],
 
     "CARD_PRIMARY_BG": ["#FFFFFF"],
-    "CARD_SECONDARY_BG": ["#F5F8FF"],
+    "CARD_SECONDARY_BG": ["#F8FAFF"],
 
-    "CHANNEL_ICON": ["#2E5BFF"],
+    "CHANNEL_ICON": ["#0038B8"],
 
-    "EMBED_BACKGROUND": ["#F5F8FF"],
-    "EMBED_BACKGROUND_ALTERNATE": ["#EAF0FF"],
+    "EMBED_BACKGROUND": ["#F8FAFF"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#EEF2FF"],
 
-    "INTERACTIVE_ACTIVE": ["#1E4AE0"],
-    "INTERACTIVE_NORMAL": ["#2E5BFF"],
-    "INTERACTIVE_MUTED": ["#AAB4D6"],
+    "INTERACTIVE_ACTIVE": ["#002D96"],
+    "INTERACTIVE_NORMAL": ["#0038B8"],
+    "INTERACTIVE_MUTED": ["#7A95D1"],
 
-    "PANEL_BG": ["#F2F6FF"],
+    "PANEL_BG": ["#F0F4FF"],
 
-    "TEXT_PRIMARY": ["#000000"],
-    "TEXT_NORMAL": ["#000000"],
-    "TEXT_SECONDARY": ["#000000"],
-    "TEXT_MUTED": ["#000000"],
+    "TEXT_PRIMARY": ["#0F172A"],
+    "TEXT_NORMAL": ["#1E293B"],
+    "TEXT_SECONDARY": ["#475569"],
+    "TEXT_MUTED": ["#64748B"],
 
-    "TEXT_LINK": ["#000080"],
+    "TEXT_LINK": ["#0038B8"],
 
-    "THREAD_CHANNEL_SPINE": ["#2E5BFF"],
+    "THREAD_CHANNEL_SPINE": ["#0038B8"],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#FFFFFF"],
     "INPUT_BACKGROUND": ["#FFFFFF"],
 
-    "TEXT_DANGER": ["#E5484D"],
-    "STATUS_DANGER": ["#E5484D"],
-    "STATUS_DND": ["#E5484D"],
+    "TEXT_DANGER": ["#D32F2F"],
+    "STATUS_DANGER": ["#D32F2F"],
+    "STATUS_DND": ["#D32F2F"],
 
-    "BACKGROUND_MODIFIER_ACTIVE": ["#2E5BFF20"]
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0038B825"]
   },
 
   "rawColors": {
-    "BLUE_345": "#2E5BFF",
-    "GREEN_430": "#2E5BFF",
+    "BLUE_345": "#0038B8",
+    "GREEN_430": "#0038B8",
 
-    "RED_430": "#E5484D",
-    "RED_460": "#C73E42",
+    "RED_430": "#D32F2F",
+    "RED_460": "#B71C1C",
 
-    "GREEN_460": "#AAB4D6",
+    "GREEN_460": "#7A95D1",
 
-    "BRAND_260": "#2E5BFF",
-    "BRAND_360": "#2E5BFF",
-    "BRAND_500": "#2E5BFF",
-    "BRAND_560": "#E6EEFF",
+    "BRAND_260": "#E1E9FF",
+    "BRAND_360": "#7A95D1",
+    "BRAND_500": "#0038B8",
+    "BRAND_560": "#002D96",
 
-    "PRIMARY_500": "#E6EEFF",
-    "PRIMARY_600": "#F2F6FF",
-    "PRIMARY_700": "#FFFFFF",
+    "PRIMARY_500": "#64748B",
+    "PRIMARY_600": "#E1E9FF",
+    "PRIMARY_700": "#F0F4FF",
     "PRIMARY_800": "#FFFFFF"
   },
 
   "background": {
     "url": "https://raw.githubusercontent.com/ReefTrail/Images/refs/heads/main/HD-wallpaper-israel-flag.jpg?token=GHSAT0AAAAAAD2YMAPVTN2WA3QTGTUS623Y2PTQIEQ",
     "blur": 0,
-    "brightness": 0.5
+    "brightness": 0.6
   },
 
   "spec": 2,
 
   "plus": {
-    "version": 0,
-    "mentionLineColor": "#2E5BFF"
+    "version": 1,
+    "mentionLineColor": "#0038B8"
   }
 }
