@@ -34,12 +34,12 @@
 
     "PANEL_BG": ["#F2F6FF"],
 
-    "TEXT_PRIMARY": ["#1A1A1A"],
-    "TEXT_NORMAL": ["#1A1A1A"],
-    "TEXT_SECONDARY": ["#5A5F73"],
-    "TEXT_MUTED": ["#8A8FA3"],
+    "TEXT_PRIMARY": ["#000000"],
+    "TEXT_NORMAL": ["#000000"],
+    "TEXT_SECONDARY": ["#000000"],
+    "TEXT_MUTED": ["#000000"],
 
-    "TEXT_LINK": ["#2E5BFF"],
+    "TEXT_LINK": ["#000080"],
 
     "THREAD_CHANNEL_SPINE": ["#2E5BFF"],
 
